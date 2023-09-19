@@ -3,7 +3,8 @@
 ## About
 The stock-trading simulator is an innovative tool built using Python and the tkinter module, designed to provide a realistic simulation of real-world trading. To ensure that the data is accurate and up-to-date, the simulator scrapes stock data from Yahoo Finance, which is then utilized to generate a dynamic and immersive experience.
 
-<img width="60%" height="60%" src="https://github.com/tgarg10/Stock-Market-Simulator/assets/129296453/e9954eb8-4fdf-4a47-a66b-4161cef95f01">
+<img width="80%" height="80%" src="https://github.com/tgarg10/Stock-Market-Simulator/assets/129296453/e9954eb8-4fdf-4a47-a66b-4161cef95f01">
+
 
 One of the key features of the simulator is the frequency with which stock prices are updated, which occurs every 4 seconds. This ensures that traders using the tool are always equipped with the most current information, allowing them to make informed decisions and stay ahead of the market.
 
